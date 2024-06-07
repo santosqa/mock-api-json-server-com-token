@@ -1,0 +1,11 @@
+{
+  "name": "json-server-mock-api-com-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^8.5.1",
+    "body-parser": "^1.19.0"
+  }
+}
