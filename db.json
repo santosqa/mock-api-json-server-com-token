@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "santosqa.com",
+      "password": "santosqa@123"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "author": "user1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "author": "user2"
+    }
+  ]
+}

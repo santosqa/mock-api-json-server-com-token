@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de dependências do Node.js
+node_modules/
+
+# Arquivos do ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Diretório de dependências do ambiente
+/.pnp
+.pnp.js
+
+# Cache do Yarn
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Cache do npm
+.npm/
+
+# Diretórios de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos temporários de desenvolvimento
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de cobertura de testes
+coverage/
+
+# Arquivos de log de depuração
+debug.log
+debug/
