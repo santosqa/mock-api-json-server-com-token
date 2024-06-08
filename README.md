@@ -32,7 +32,7 @@ cd ...seu-diretorio/mock-api-json-server-com-token
 
 
 3. Instale as dependências do projeto:
-  $ yarn install
+  '$ yarn install'
 
 
 ## Configuração
@@ -44,7 +44,7 @@ Abra o arquivo `server.js` e defina a chave secreta na variável `SECRET_KEY`.
 ## Execução
 
 Para iniciar o servidor, execute o seguinte comando:
-  $ node server.js
+  '$ node server.js'
 
 Isso iniciará o servidor JSON na porta 6000 por padrão.
 

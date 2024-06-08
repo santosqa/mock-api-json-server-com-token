@@ -80,8 +80,8 @@ server.use((req, res, next) => {
 
 server.use(router)
 
-server.listen(3000, () => {
+server.listen(6000, () => {
   console.log(
-    '🎉 Boa! Seu JSON-Server está vivo e chutando na porta 3000! 🚀 Vamos codar como se não houvesse amanhã! 🖥️'
+    '🎉 Boa! Seu JSON-Server está vivo e chutando na porta 6000! 🚀 Vamos codar como se não houvesse amanhã! 🖥️'
   )
 })
