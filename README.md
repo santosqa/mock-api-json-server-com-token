@@ -1,8 +1,18 @@
+[![Link Bio](https://img.shields.io/badge/Link%20Bio-59d959?style=for-the-badge&logo=about.me&logoColor=white)](https://santosqa.github.io) [![About](https://img.shields.io/badge/About.me-993399?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/santosqa) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santosqa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosqa) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosqa_/) [![Santos QA](https://img.shields.io/badge/SantosQA.COM-BD93F9?style=for-the-badge&logo=twitter&logoColor=white)](https://santosqa.com/) [![Apartamento Vista Mar](https://img.shields.io/badge/ApartamentoVistaMar.com-FFB86C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.apartamentovistamar.com/)
+
+
+
+
+## 💻 Links úteis do projeto
+
 - **https://about.me/santosqa** -
 
 - **https://santosqa.apidog.io/** -
 
-# Mock API JSON Server com Autenticação JWT
+
+# 💻 Projeto
+
+### Mock API JSON Server com Autenticação JWT 
 
 Este é um projeto de exemplo que demonstra como criar um mock de API RESTful utilizando o JSON Server, juntamente com autenticação JWT (JSON Web Token).
 
@@ -84,6 +94,9 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 
 
+---
+
+Feito com ♥ por Ricardo Santos QA :wave: [about.me/santosqa](https://about.me/santosqa)
 
 
 
